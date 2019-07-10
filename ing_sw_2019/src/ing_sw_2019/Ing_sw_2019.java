@@ -29,7 +29,7 @@ public class Ing_sw_2019 {
             System.out.println("el sueldo final es: " + nsue);
         }
         if (sue == 1000) {
-            System.out.println("el sueldo final es: " + sue);;
+            System.out.println("el sueldo final es: " + sue);
         }
     }
 
