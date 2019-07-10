@@ -31,6 +31,8 @@ public class Ing_sw_2019 {
         if (sue == 1000) {
             System.out.println("el sueldo final es: " + sue);
         }
+        System.out.println.("Revisión Mauricio Rojas C.");
+        System.out.println.x("Revisión Mauricio Rojas C.");
     }
 
 }
